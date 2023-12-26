@@ -1,0 +1,47 @@
+* {
+    font-family: 'Poppins', 'sans';
+}
+
+.header-accomodation {
+    p {
+        font-weight: bold;
+    }
+}
+
+.btn-hijau {
+    background-color: #00E1A4;
+    color: white;
+    font-weight: 600;
+}
+
+.sidebar-style {
+    li {
+        background-color: #00E1A4;
+        padding: 2% 8%;
+        margin-bottom: 10px;
+        border-radius: 5px;
+        a {
+            text-decoration: none;
+            color: aliceblue;
+        }
+    }
+}
+
+.zone-wrap{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+}
+
+.zone-wrap h1{
+    margin: 0;
+    font-size: 1.5rem !important;
+}
+
+.zone-wrap h1 span{
+    height: 23px;
+    width: 23px;
+    border-radius: 50%;
+    display: inline-block;
+}

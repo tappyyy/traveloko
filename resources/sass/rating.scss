@@ -1,0 +1,45 @@
+.box-rating{
+    padding-top: 60px;
+}
+
+.content-rating{
+    display: flex;
+    padding-top: 70px;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    margin: 0 450px;
+    border-radius: 50px;
+    padding: 20px 50px;
+}
+
+
+.content-rating .text{
+    padding-top: 20px;
+    line-height: 5px;
+    color: #748A9D;
+    margin-bottom: 50px;
+    font-weight: bold;
+    font-size: 18px;
+}
+
+.btn-submit{
+    width: 180px;
+    padding: 12px 24px;
+    border: none;
+    border-radius: 40px;
+    background: none;
+    background-color: #00e2a7;
+    color: white;
+    font-weight: bold;
+    cursor: pointer;
+    font-size: 14px;
+}
+
+.rating,.comment,.submit{
+    margin: 20px 18px;
+}
+
+.comdetail{
+    font-size: 12px;
+}
